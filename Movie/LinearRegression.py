@@ -22,7 +22,7 @@ plt.xlabel('Production Budget')
 plt.ylabel('Worldwide Budget')
 plt.xlim(0, 500000000)
 plt.ylim(0, 3000000000)
-plt.plot(x, reg.predict(x), color='res', linewidth=4)
+plt.plot(x, reg.predict(x), color='red', linewidth=4)
 plt.show()
 
 print(slope)
