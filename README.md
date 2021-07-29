@@ -30,7 +30,7 @@ plt.show()                        # to display the graph
 
 The graph at this stage will look like this:-
 
-![data_of_movies](https://github.com/shubyaa/Linear_Regression/blob/main/Figure_2.jpeg "Scatter Graph")
+  ![data_of_movies](https://github.com/shubyaa/Linear_Regression/blob/main/Figure_2.jpeg "Scatter Graph")
 
 3. Now it's time to implement **Linear Regression** in our graph!
 
@@ -63,7 +63,7 @@ plt.show()                                                # important to call th
 
 It will look like this!
 
-![Regression](https://github.com/shubyaa/Linear_Regression/blob/main/Figure_1.jpeg)
+  ![Regression](https://github.com/shubyaa/Linear_Regression/blob/main/Figure_1.jpeg)
 
 One thing to observe is that at higher values, the prediction might be inaccurate, but on lower values it predicts the worldwide budget perfectly.
 
